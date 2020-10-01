@@ -25,5 +25,13 @@ There was a requirement to use large numbers, so I had to use a special lib for 
 
 Each application has in its header a description of the function and a list of inputs and outputs.
 
+## PointCompBIGD
+
+<p float="left">
+  <img src="/Flowchart/1.png" width="500" /> 
+</p>
+
+(click <a href="https://github.com/StingrayCZ/My-first-larger-programming-project-in-C/blob/master/Source%20of%20Code/PointCompBig.c"> here</a> for better resolution)
+
 
 
