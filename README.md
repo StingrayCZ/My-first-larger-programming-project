@@ -28,7 +28,7 @@ Each application has in its header a description of the function and a list of i
 ## PointCompBIGD
 
 <p float="left">
-  <img src="/Flowchart/1.png" width="500" /> 
+  <img src="/Flowchart/CompPointBIGD.png" width="500" /> 
 </p>
 
 (click <a href="https://github.com/StingrayCZ/My-first-larger-programming-project-in-C/blob/master/Source%20of%20Code/PointCompBig.c"> here</a> for better resolution)
