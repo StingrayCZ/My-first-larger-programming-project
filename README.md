@@ -22,6 +22,7 @@ There was a requirement to use large numbers, so I had to use a special lib for 
 (click <a href="https://github.com/StingrayCZ/My-first-larger-programming-project-in-C/blob/master/Flowchart%20(pdf)/All%20Flowcharts.pdf"> here</a> for better resolution)
 
 </p>
+
 Each application has in its header a description of the function and a list of inputs and outputs.
 
 
