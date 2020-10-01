@@ -24,7 +24,9 @@ There was a requirement to use large numbers, so I had to use a special lib for 
 </p>
 
 Each application has in its header a description of the function and a list of inputs and outputs.
+</p>
 See <a href="https://github.com/StingrayCZ/My-first-larger-programming-project-in-C/tree/master/Source%20of%20Code"> flowcharts</a> as pdf files.
+</p>
 See <a href="https://github.com/StingrayCZ/My-first-larger-programming-project-in-C/tree/master/Source%20of%20Code"> codes</a>.
 
 
