@@ -1,7 +1,7 @@
 # END-TO-END ENCRYPTION PROTOCOL FOR IEEE 802.15.4
 
 <p float="left">
-  <img src="/Flowchart/Main Scheme.png" width="800" /> 
+  <img src="/Flowchart/Main Scheme.png" width="700" /> 
 </p
 
 ## Summary of all flowcharts
