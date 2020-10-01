@@ -3,8 +3,10 @@
 <p float="left">
   <img src="/Flowchart/Main Scheme.png" width="700" /> 
 </p
+  
 
 ## Summary of all flowcharts
+
 
 <p float="left">
   <img src="/Flowchart/All.png" width="800" /> 
