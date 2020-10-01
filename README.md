@@ -2,7 +2,7 @@
 
 This thesis explores the topic of encryption of communication between low-voltage devices that are controlled by microcontrollers. Two deRFnod development boards were used in the work, which were equipped with AVR ATmega 128 RFA1 chips, which enable wireless communication. The application was developed and tested on these devices. The final output of the work is the design of an application for asymmetric key exchange, which is based on elliptic curves. This application is implemented in Atmel LightWeight, where the issue of mutual communication between communicating points is also addressed.
 
-(See document fo my Thesis, click <a href="https://github.com/StingrayCZ/My-first-larger-programming-project-in-C/blob/master/THESIS%20BACA.pdf"> here</a>)
+(See document of my Thesis, click <a href="https://github.com/StingrayCZ/My-first-larger-programming-project-in-C/blob/master/THESIS%20BACA.pdf"> here</a>)
 
 ## Main Scheme
 
