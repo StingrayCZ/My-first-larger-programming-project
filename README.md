@@ -4,12 +4,13 @@ This thesis explores the topic of encryption of communication between low-voltag
 
 (See document fo my Thesis, click <a href="https://github.com/StingrayCZ/My-first-larger-programming-project-in-C/blob/master/THESIS%20BACA.pdf"> here</a>)
 
+## Main Scheme
 
 <p float="left">
   <img src="/Flowchart/Main Scheme.png" width="700" /> 
 </p>  
 
-## Summary of all flowcharts
+## Summary of All Flowcharts
 
 
 <p float="left">
