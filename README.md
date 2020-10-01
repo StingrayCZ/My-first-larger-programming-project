@@ -1,2 +1,4 @@
-# My first larger programming project in C
-Overwiew of my first larger programming project 👨‍💻
+# Bachelor Thesis - END-TO-END ENCRYPTION PROTOCOL FOR IEEE 802.15.4
+
+
+
